@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<manifest>
+  <!-- config -->
+  <remote name="github" fetch="https://github.com" review="https://github.com" />
+  <default revision ="main" remote="github" sync-c="true" sync-j="8"/>
+
+  <!-- agea projects -->
+  <project path="agea"                     name="ilopit/agea"                 revision="main"/>
+  <project path="agea/thirdparty/upstream/imgui"    name="ocornut/imgui.git"           revision="master" />
+  <project path="agea/thirdparty/upstream/gtests"   name="google/googletest"           revision="refs/tags/release-1.10.0"/>
+  <project path="agea/thirdparty/upstream/jsoncpp"  name="open-source-parsers/jsoncpp" revision="refs/tags/1.9.2"/>
+
+</manifest>
