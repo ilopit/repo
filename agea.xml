@@ -5,9 +5,17 @@
   <default revision ="main" remote="github" sync-c="true" sync-j="8"/>
 
   <!-- agea projects -->
-  <project path="agea"                     name="ilopit/agea"                 revision="main"/>
-  <project path="agea/thirdparty/upstream/imgui"    name="ocornut/imgui.git"           revision="master" />
-  <project path="agea/thirdparty/upstream/gtests"   name="google/googletest"           revision="refs/tags/release-1.10.0"/>
-  <project path="agea/thirdparty/upstream/jsoncpp"  name="open-source-parsers/jsoncpp" revision="refs/tags/1.9.2"/>
+  <project path="agea"                                   name="ilopit/agea"                                    revision="main"/>
+
+  <!-- thirdparty projects -->
+  <project path="agea/thirdparty/upstream/glm"           name="g-truc/glm"                                     revision="refs/tags/0.9.9.8"/>
+  <project path="agea/thirdparty/upstream/gtests"        name="google/googletest"                              revision="refs/tags/release-1.10.0"/>
+  <project path="agea/thirdparty/upstream/imgui"         name="ocornut/imgui.git"                              revision="refs/tags/v1.87"/>
+  <project path="agea/thirdparty/upstream/jsoncpp"       name="open-source-parsers/jsoncpp"                    revision="refs/tags/1.9.5"/>
+  <project path="agea/thirdparty/upstream/spirvreflect"  name="KhronosGroup/SPIRV-Reflect"                     revision="refs/tags/sdk-1.3.204.1"/>
+  <project path="agea/thirdparty/upstream/stb"           name="nothings/stb"                                   revision="af1a5bc352164740c1cc1354942b1c6b72eacb8a"/>
+  <project path="agea/thirdparty/upstream/tinyobjloader" name="tinyobjloader/tinyobjloader"                    revision="refs/tags/v2.0.0rc9"/>
+  <project path="agea/thirdparty/upstream/vkbootstrap"   name="charles-lunarg/vk-bootstrap"                    revision="refs/tags/v0.5"/>
+  <project path="agea/thirdparty/upstream/vma"           name="GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator" revision="refs/tags/v2.3.0"/>
 
 </manifest>
