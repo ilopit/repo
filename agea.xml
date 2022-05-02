@@ -12,6 +12,7 @@
   <project path="agea/thirdparty/upstream/gtests"        name="google/googletest"                              revision="refs/tags/release-1.10.0"/>
   <project path="agea/thirdparty/upstream/imgui"         name="ocornut/imgui.git"                              revision="refs/tags/v1.87"/>
   <project path="agea/thirdparty/upstream/jsoncpp"       name="open-source-parsers/jsoncpp"                    revision="refs/tags/1.9.5"/>
+  <project path="agea/thirdparty/upstream/spdlog"        name="gabime/spdlog"                                  revision="refs/tags/v1.9.2"/>
   <project path="agea/thirdparty/upstream/spirvreflect"  name="KhronosGroup/SPIRV-Reflect"                     revision="refs/tags/sdk-1.3.204.1"/>
   <project path="agea/thirdparty/upstream/stb"           name="nothings/stb"                                   revision="af1a5bc352164740c1cc1354942b1c6b72eacb8a"/>
   <project path="agea/thirdparty/upstream/tinyobjloader" name="tinyobjloader/tinyobjloader"                    revision="refs/tags/v2.0.0rc9"/>
