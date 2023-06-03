@@ -20,6 +20,8 @@
   <project path="agea/thirdparty/upstream/tinyobjloader" name="tinyobjloader/tinyobjloader"                    revision="refs/tags/v2.0.0rc9"/>
   <project path="agea/thirdparty/upstream/vkbootstrap"   name="charles-lunarg/vk-bootstrap"                    revision="refs/tags/v0.5"/>
   <project path="agea/thirdparty/upstream/vma"           name="GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator" revision="refs/tags/v2.3.0"/>
+  <project path="agea/thirdparty/upstream/textedit"      name="ilopit/ImTextEdit.git"                          revision="master"/>
   <project path="agea/thirdparty/upstream/yaml-cpp"      name="jbeder/yaml-cpp"                                revision="refs/tags/yaml-cpp-0.7.0"/>    
+
 
 </manifest>
