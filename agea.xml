@@ -11,7 +11,7 @@
   <project path="agea/thirdparty/upstream/allocator"     name="foonathan/memory"                               revision="d54c7f16fa903a06974ce02ad6ef383fe2230b6f"/>
   <project path="agea/thirdparty/upstream/glm"           name="g-truc/glm"                                     revision="refs/tags/0.9.9.8"/>
   <project path="agea/thirdparty/upstream/gtests"        name="google/googletest"                              revision="refs/tags/release-1.10.0"/>
-  <project path="agea/thirdparty/upstream/imgui"         name="ocornut/imgui.git"                              revision="refs/tags/v1.87"/>
+  <project path="agea/thirdparty/upstream/imgui"         name="ocornut/imgui.git"                              revision="master"/>
   <project path="agea/thirdparty/upstream/jsoncpp"       name="open-source-parsers/jsoncpp"                    revision="refs/tags/1.9.5"/>
   <project path="agea/thirdparty/upstream/lua"           name="walterschell/Lua"                               revision="14f98e5fdcde3ccd7ea9188181dd7e50660a2999"/>
   <project path="agea/thirdparty/upstream/lua_bindings"  name="ThePhD/sol2"                                    revision="refs/tags/v3.3.0"/>
