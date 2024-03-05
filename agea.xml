@@ -8,14 +8,13 @@
   <project path="agea"                                   name="ilopit/agea"                                    revision="main"/>
 
   <!-- thirdparty projects -->
-  <project path="agea/thirdparty/upstream/allocator"     name="foonathan/memory"                               revision="d54c7f16fa903a06974ce02ad6ef383fe2230b6f"/>
   <project path="agea/thirdparty/upstream/glm"           name="g-truc/glm"                                     revision="refs/tags/0.9.9.8"/>
   <project path="agea/thirdparty/upstream/gtests"        name="google/googletest"                              revision="refs/tags/release-1.10.0"/>
   <project path="agea/thirdparty/upstream/imgui"         name="ocornut/imgui.git"                              revision="master"/>
   <project path="agea/thirdparty/upstream/jsoncpp"       name="open-source-parsers/jsoncpp"                    revision="refs/tags/1.9.5"/>
   <project path="agea/thirdparty/upstream/lua"           name="walterschell/Lua"                               revision="14f98e5fdcde3ccd7ea9188181dd7e50660a2999"/>
   <project path="agea/thirdparty/upstream/lua_bindings"  name="ThePhD/sol2"                                    revision="refs/tags/v3.3.0"/>
-  <project path="agea/thirdparty/upstream/spdlog"        name="gabime/spdlog"                                  revision="refs/tags/v1.9.2"/>
+  <project path="agea/thirdparty/upstream/spdlog"        name="gabime/spdlog"                                  revision="refs/tags/v1.13.0"/>
   <project path="agea/thirdparty/upstream/spirvreflect"  name="KhronosGroup/SPIRV-Reflect"                     revision="refs/tags/sdk-1.3.204.1"/>
   <project path="agea/thirdparty/upstream/stb"           name="nothings/stb"                                   revision="af1a5bc352164740c1cc1354942b1c6b72eacb8a"/>
   <project path="agea/thirdparty/upstream/textedit"      name="santaclose/ImGuiColorTextEdit"                  revision="23fdb8f6f990711f4643511cb9855482cc7d7ce7"/>
